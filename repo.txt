@@ -1,0 +1,6 @@
+https://github.com/soleman752-prog/normalize
+razem 16
+-rwxrwxr-x 1 student student 774 sty 22 12:57 install.sh
+-rw-rw-r-- 1 student student 672 sty 22 12:57 normalize.c
+-rw-rw-r-- 1 student student 453 sty 22 13:00 README.md
+-rw-rw-r-- 1 student student  45 sty 22 13:28 repo.txt
